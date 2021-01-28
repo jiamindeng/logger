@@ -43,7 +43,7 @@ module.exports = function (options) {
       : Date.now();
     print(
       '  ' +
-        chalk.gray('<--') +
+        chalk.gray('<--[][][]') +
         ' ' +
         chalk.bold('%s') +
         ' ' +
